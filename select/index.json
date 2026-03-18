@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "JoyRide",
+  "base_artist": "CORTIS",
+  "createdAt": "2026-03-18T13:13:52.982626Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Big Time Sensuality (Justin Robertson's Prankster's Joyride)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/01_Big_Time_Sensuality_(Justin_Robertson's_Prankster's_Joyride)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Joyride",
+      "artist": "Built to Spill",
+      "has_synced": false,
+      "path": "select/02_Joyride_Built_to_Spill.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Joyride",
+      "artist": "Molly Nilsson",
+      "has_synced": false,
+      "path": "select/03_Joyride_Molly_Nilsson.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Joyride",
+      "artist": "People Under the Stairs",
+      "has_synced": false,
+      "path": "select/04_The_Joyride_People_Under_the_Stairs.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Joyride",
+      "artist": "Kevin Abstract",
+      "has_synced": true,
+      "path": "select/05_Joyride_Kevin_Abstract.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Joyride",
+      "artist": "Kevin Abstract",
+      "has_synced": true,
+      "path": "select/06_Joyride_Kevin_Abstract.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Joyride",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/07_Joyride_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Joyride",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/08_Joyride_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Joyride (7\" version)",
+      "artist": "Roxette",
+      "has_synced": false,
+      "path": "select/09_Joyride_(7__version)_Roxette.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Joyride (7'' Version)",
+      "artist": "Roxette",
+      "has_synced": false,
+      "path": "select/10_Joyride_(7''_Version)_Roxette.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Joyride (Live in St. Petersburg, 2010)",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/11_Joyride_(Live_in_St._Petersburg,_2010)_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Joyride (Live In St Petersburg 2010)",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/12_Joyride_(Live_In_St_Petersburg_2010)_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Joyride - MTV Unplugged Version",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/13_Joyride_-_MTV_Unplugged_Version_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Joyride (MTV Unplugged version)",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/14_Joyride_(MTV_Unplugged_version)_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Joyride (U.S. remix)",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/15_Joyride_(U.S._remix)_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Joyride (US Remix)",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/16_Joyride_(US_Remix)_Roxette.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "JoyRIde",
+      "artist": "CORTIS",
+      "has_synced": false,
+      "path": "select/pl_01_JoyRIde_CORTIS.txt"
+    }
+  ]
+}
