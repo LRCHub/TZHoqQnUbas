@@ -1,0 +1,57 @@
+# CORTIS – JoyRide
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+갇혀 이 건물 속에, 밤새
+No sun no sky 얼굴은 창백, all day
+미쳐 난 flipping 마치 fried eggs, pancakes
+Bloodshot eyes tonight
+도망가 여길 벗어나
+Cause, Ooh
+우리는 꿈꿔왔지
+찰나의 해방
+달려 부릉
+트렁크에다 콜라 채워
+얼른 밟아 그 pedal
+이 자릴 떠, 지도는 집어치워
+Cause we're on a joyride
+더 세게 speed it up 지금 기분 so high
+Driving so fast
+가로질러 긴 밤
+Day to night, ride
+We're on a joyride
+Yeah, yeah, yeah, we're on a joyride
+Yeah, yeah, yeah, we're on a joyride
+Driving so fast
+가로질러 긴 밤
+Day to night, ride
+We're on a joyride
+범생이는 나의 past tence
+학교는 찍먹, 아지트로 came back
+인생이 폭풍이면 난
+내 drip 아래 춰 rain dance
+종일 뛰었었지
+폭주는 내 personality
+마치 MJ, ever since '23
+Rat snakes 담을 넘었지
+Cause, Ooh
+우리는 꿈꿔왔지
+찰나의 해방
+달려 부릉
+트렁크에다 콜라 채워
+얼른 밟아 그 pedal
+이 자릴 떠, 지도는 집어치워
+Cause we're on a joyride
+더 세게 speed it up 지금 기분 so high
+Driving so fast
+가로질러 긴 밤
+Day to night, ride
+We're on a joyride
+Yeah, yeah, yeah, we're on a joyride
+Yeah, yeah, yeah, we're on a joyride
+Driving so fast
+가로질러 긴 밤
+Day to night, ride
+We're on a joyride
+```
